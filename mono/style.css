@@ -1,0 +1,167 @@
+*{
+  margin: 0;
+  padding: 0;
+  font-size: 18px;
+  font-family: 'Poppins', sans-serif;
+  font-weight: 200;
+  color: #333;
+
+}
+h1,h2,h3{
+font-family: 'Merriweather', serif;
+
+}
+.quadrado{
+  border-radius: 0;
+}
+
+.first{
+  background:linear-gradient(to bottom,rgba(0,0,0,0.8),rgba(20, 20, 20, 0.6)), url('img/home.jpg') no-repeat;
+  background-size:cover;
+  background-position:center;
+  padding-bottom: 5rem;
+}
+
+.navbar{
+  background: transparent !important;
+  padding-top: 1.5rem;
+  padding-bottom: 1.5rem;
+}
+.navbar-brand{
+  color: white !important;
+  font-weight:600;
+}
+.nav-item i{
+  letter-spacing: 2px;
+  color:white !important;
+}
+.first h1{
+  font-family: 'Merriweather', serif;
+  color:white;
+  font-weight:300;
+  font-size: 5rem;
+  letter-spacing: 3px;
+}
+.conteudo{
+  padding:8rem;
+}
+/* second */
+
+.second{
+  background:rgb(230, 233, 231);
+  padding-top: 5rem;
+  padding-bottom: 5rem;
+  padding-left: 2rem;
+  padding-right: 2rem;
+}
+.second h1{
+  font-weight: 400;
+  font-family: 'Poppins', sans-serif;
+  font-size: 3.5rem;
+  letter-spacing: 2px;
+  margin-top: .5rem;
+}
+.imagens{
+  margin-top: 3rem;
+  padding: 0;
+  margin:0;
+}
+.imagens img{
+  margin-top: 2rem;
+  width: 100%;
+}
+.bg-box{
+  background: white;
+  width: 100%;
+  padding: 0;
+  margin:0;
+}
+.conteudo-box{
+  padding: 2.5rem;
+
+}
+.conteudo-box h3{
+  letter-spacing: 2px;
+  padding-bottom: 4px;
+
+}
+
+/* carousel */
+.third{
+  padding:0;
+}
+.carousel-control-next-icon{
+  width: 50px;
+  height: 50px;
+}
+.carousel-control-prev-icon{
+  width: 50px;
+  height: 50px;
+}
+.carousel-caption h1{
+  font-size: 2.8rem;
+  letter-spacing: 2px;
+  padding-bottom: 1rem;
+
+}
+.carousel-caption button{
+  margin-bottom: 10rem;
+  color: rgb(226, 226, 226);
+  background-color: rgb(52, 52, 52);
+  width: 165px;
+  height: 40px;
+  font-size: .8rem;
+
+}
+
+
+/* fourth */
+.fourth{
+background:url('img/5.jpeg');
+background-size: cover;
+background-position: center;
+padding: 0;
+}
+.fourth h1{
+  color:rgb(195, 195, 195);
+}
+.overlay{
+  background: rgba(11, 11, 11, 0.8);
+  padding-top: 5rem;
+  padding-bottom: 5rem;
+}
+.form-inline .form-control{
+  height: 45px;
+  width: 350px;
+}
+.form-inline button{
+  color: rgb(218, 218, 218);
+  height: 45px;
+  background-color: rgb(89, 89, 89);
+  border: 1px solid rgb(89, 89, 89);
+  width: 120px;
+}
+.form-inline button:hover{
+  background-color: rgb(75, 75, 75);
+  border: 1px solid rgb(89, 89, 89);
+}
+#linhabaixo{
+  border:1px solid rgba(215, 215, 215, 0.3);
+  width: 70%;
+  margin: 0 auto;
+  margin-top: 4rem;
+}
+.fourth i{
+  color: rgb(203, 203, 203);
+  margin-top: 4rem;
+  letter-spacing: 14px;
+}
+.fourth p{
+  color: rgb(90, 90, 90);
+}
+#vinioo{
+      font-family: 'Amaranth', sans-serif;
+    font-weight: 700;
+    color: rgb(147,147,147);
+    font-size:1.6rem;
+}
