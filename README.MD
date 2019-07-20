@@ -31,4 +31,4 @@ This repository contains some websites i've made on my learning proccess.
 
 
 ## Final thoughts
-It was an amazing experience for each website i've done. I think we learn things better when we do it by ourselves. I can truly say that i've learned a lot building these websites. It is really fun and i love to do it.
+It was an amazing experience for each website i've done. I think we learn things better when we do it by ourselves. I can truly say that i've learned a lot building these websites. It was really fun and i love to do it.
